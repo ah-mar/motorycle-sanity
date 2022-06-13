@@ -4,9 +4,9 @@ export default function Post({ post }) {
   return (
     <>
       <div className={styles.container}>
-        <h1>{post.title}</h1>
-        <img src={post.imageUrl} alt={post.title} />
-        <p>{post.excerpt}</p>
+        <h1>{post?.title}</h1>
+        <img src={post?.imageUrl} alt={post?.title} />
+        <p>{post?.excerpt}</p>
       </div>
     </>
   );
