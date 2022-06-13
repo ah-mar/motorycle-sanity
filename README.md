@@ -1,3 +1,13 @@
+## Project Description
+
+This is a Next JS project for blogs with data coming from a headless CMS ie Sanity IO. 
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
